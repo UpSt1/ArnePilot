@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/bash 
 
 export LD_LIBRARY_PATH=/data/data/com.termux/files/usr/lib
 export HOME=/data/data/com.termux/files/home
